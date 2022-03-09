@@ -10,10 +10,10 @@
   
   <br>
 
-## 🧪 Tecnologia:
+## 🧪 Tecnologias:
 
 - [React](https://reactjs.org)
-  
+- Api bitly
 ## 🚀 Como executar
 
 - Clone o projeto
@@ -25,12 +25,6 @@ $ cd ReactJS-MyLink
 ```
   
 *🔰 Observação: É necessário uma conta na plataforma https://bitly.com/ para garantir seu token de acesso que irá permitir encurtar os links*
-
-Com seu token de acesso da **bitly** crie um arquivo na pasta raiz do projeto com o nome `.env.local` e dentro dele adicione a chave como no exemplo abaixo no lugar da sequência de `x`:
-
-```
-VITE_BITLY_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
   
 Após isso basta seguir os passos abaixo para executar o projeto:
 ```bash
