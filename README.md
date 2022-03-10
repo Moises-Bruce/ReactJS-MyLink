@@ -33,3 +33,14 @@ $ yarn
 # Iniciar o projeto
 $ yarn start
 ```
+  
+## 💻 Projeto
+
+O MyLink é uma aplicação feita para encurtar links grandes, tornando-o mais atrativo 
+
+<p align="center">
+  <img alt="Preview" src="./.github/tela1.png">
+  <img alt="Preview" src="./.github/tela2.png">
+  <img alt="Preview" src="./.github/tela3.png">
+  <img alt="Preview" src="./.github/tela4.png">
+</p>
